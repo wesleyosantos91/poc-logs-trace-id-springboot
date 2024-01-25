@@ -47,8 +47,6 @@
 ![Spring Cloud Sleuth](images/log.png "A imagem mostra o log gerando tracings nos logs.")
 </div>
 
-A imagem mostra o log gerando tracings nos logs.
-
 > Bom pessoal espero que tenham gostado a baixo segue as as referencias e o código de exemplo.
 
 > Referencias:
